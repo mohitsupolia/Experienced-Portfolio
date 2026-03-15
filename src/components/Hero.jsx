@@ -29,7 +29,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1cHplsC6WWMhgaYu6O-sixCq1cwlJTcl9/view?usp=sharing"
+              href="https://drive.google.com/file/d/1XEQcnv0e11W7k2U23_U925Wb7CTp957U/view?usp=sharing"
               className="border border-gray-600 px-6 py-3 rounded-xl hover:bg-gray-800"
             >
               Download Resume
