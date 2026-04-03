@@ -19,7 +19,7 @@ export default function Stats() {
   ];
 
   return (
-    <section className=" py-24 px-6 bg-gray-950 -mt-36">
+    <section className=" py-24 px-6 bg-gray-950 md:-mt-36 mt-10">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold text-center text-white mb-16">
           Professional Highlights
