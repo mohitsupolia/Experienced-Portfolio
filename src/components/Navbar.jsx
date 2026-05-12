@@ -23,7 +23,7 @@ export default function Navbar() {
         </ul>
 
         <a
-          href="https://drive.google.com/file/d/1SFht-8KHXVvbhiAXPMZu9su-8N7NYOrX/view?usp=sharing"
+          href="https://drive.google.com/file/d/1zpZNhl-NRItFKNWPlxkQHbqGJiiqAlvG/view?usp=sharing"
           className="bg-blue-500 px-4 py-2 rounded-lg"
         >
           Resume
