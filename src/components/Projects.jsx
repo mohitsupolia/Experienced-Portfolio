@@ -1,4 +1,11 @@
 const projects = [
+    {
+    name: "Cricket Gyan",
+    desc: "Cricket Gyan — Your all-in-one hub for live scores, match updates, player stats, rankings, and cricket news.",
+    tech: ["React"],
+    live: "https://cricketgyan.com",
+    mobile: "https://play.google.com/store/apps/details?id=com.cricketgyan.agency86",
+  },
   {
     name: "Cric Arabia",
     desc: "Cricket platform providing match updates, news, and user engagement across web and mobile platforms.",
