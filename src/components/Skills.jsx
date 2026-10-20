@@ -3,7 +3,10 @@ const skills = [
     title: "Frontend Development",
     tech: [
       "JavaScript",
+      "TypeScript",
       "React.js",
+      "Next.Js",
+      "Redux Toolkit Query",
       "HTML5",
       "CSS3",
       "Responsive Design",
