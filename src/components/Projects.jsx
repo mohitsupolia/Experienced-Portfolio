@@ -1,4 +1,11 @@
 const projects = [
+        {
+    name: "Dil Se Trader Pro",
+    desc: "Developed a subscription-based trading and financial education platform featuring subscription management, premium courseaccess, and broker-related services across web and mobile applications.",
+    tech: ["Next.js and React Native"],
+    live: "https://www.dilsetrader.com/login",
+    mobile: "https://play.google.com/store/apps/details?id=com.dilsetrader.pro",
+  },
     {
     name: "Cricket Gyan",
     desc: "Cricket Gyan — Your all-in-one hub for live scores, match updates, player stats, rankings, and cricket news.",
