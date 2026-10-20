@@ -1,10 +1,16 @@
 const jobs = [
+    {
+    role: "Frontend Engineer",
+    company: "Dil Se Trader",
+    time: "Aug 2026 - Present",
+    desc: "Developed a subscription-based trading and financial education platform featuring subscription management, premium course access, and broker-related services across web and mobile applications."
+  },
   {
     role: "Software Engineer (Frontend)",
-    company: "Current Organization",
-    time: "2025 - Present",
+    company: "86 Agency",
+    time: "Feb 2025 - July 2026",
     desc: "Developing scalable frontend systems for web and mobile applications. Building responsive UI components, optimizing application performance, and ensuring seamless user experiences across desktop, tablet, and mobile devices.",
-  },
+  }
 ];
 
 export default function Experience() {
