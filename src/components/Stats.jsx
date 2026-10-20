@@ -1,7 +1,7 @@
 export default function Stats() {
   const stats = [
     {
-      number: "1+",
+      number: "2+",
       label: "Years Experience",
     },
     {
